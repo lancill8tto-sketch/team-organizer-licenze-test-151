@@ -1,1 +1,8 @@
-{}
+{
+  "4A19-687A": {
+    "machine_id": "4A19-687A",
+    "scadenza": "2026-11-23",
+    "sha256_key": "a92c1a767de70d1afb0218c56342171f4270902810d1d1f23024881457d7de03",
+    "signature": "2BkZl22fr/+5WIVIQFxUa2R1z+ecJCz6/Cw7XADfEdutUFiAO7eFh/PTqTzPkVjqfv6p2z7ENX3E8vkyvCJpBg=="
+  }
+}
